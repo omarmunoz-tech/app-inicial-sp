@@ -47,7 +47,7 @@ def inicio():
 
 def pregunta_1():
     st.caption("PREGUNTA 1")
-    st.title("La pregunta 1, escrita como pregunta")
+    st.title("¿Qué pregunta responde esta página?")
 
     # La respuesta va en un recuadro, arriba de todo
     with st.container(border=True):
@@ -75,7 +75,7 @@ def pregunta_1():
 
 def pregunta_2():
     st.caption("PREGUNTA 2")
-    st.title("La pregunta 2, escrita como pregunta")
+    st.title("¿Qué pregunta responde esta página?")
 
     with st.container(border=True):
         st.caption("RESPUESTA")
@@ -102,7 +102,7 @@ def pregunta_2():
 
 def pregunta_3():
     st.caption("PREGUNTA 3")
-    st.title("La pregunta 3, escrita como pregunta")
+    st.title("¿Qué pregunta responde esta página?")
 
     with st.container(border=True):
         st.caption("RESPUESTA")
