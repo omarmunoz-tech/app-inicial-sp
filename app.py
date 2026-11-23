@@ -1,7 +1,7 @@
 # app.py: la pantalla de la app.
 # Los resultados vienen de logica.py; aquí solo se muestran.
 # La app tiene una página de inicio y una página por pregunta. El diseño es libre:
-# los colores y las letras se cambian en .streamlit/config.toml, y aquí se puede
+# los colores y la tipografía se cambian en .streamlit/config.toml, y aquí se puede
 # agregar lo que haga falta para que la app se vea bien.
 
 import streamlit as st
