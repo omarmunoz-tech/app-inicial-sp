@@ -1,4 +1,4 @@
-# Colores y letras de la app. Streamlit lee este archivo al abrir la app.
+# Colores y tipografía de la app. Streamlit lee este archivo al abrir la app.
 # Cambia los colores para darle a la app su propio estilo. Los colores van en
 # formato hexadecimal (por ejemplo "#2563eb"); cualquier selector de colores los da.
 # Después de cambiar este archivo, detén la app en Thonny y vuelve a ejecutarla.
@@ -16,6 +16,6 @@ backgroundColor = "#ffffff"
 secondaryBackgroundColor = "#f1f5f9"
 # Color del texto
 textColor = "#0f172a"
-# Letra del texto y de los títulos (cualquier familia de Google Fonts)
+# Tipografía del texto y de los títulos (cualquier familia de Google Fonts)
 font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
 headingFont = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
